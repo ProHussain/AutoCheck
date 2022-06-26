@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoCheck.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoCheck.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoCheck.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoCheck.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoCheck.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoCheck.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoCheck.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoCheck.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoCheck.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
